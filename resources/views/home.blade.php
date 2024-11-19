@@ -759,8 +759,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-7 text-center mx-auto">
-          <h1 class="text-white pt-3 mt-n5">Help Your Business To Grow! !</h1>
-          <p class="lead text-white mt-3">Fulfill all your business needs starting from design, advertising, marketing, SEO, SEM, websites, landing pages, etc.</p>
+          <h1 class="text-white pt-3 mt-n5">Bantu Bisnis Anda Berkembang!!!</h1>
+          <p class="lead text-white mt-3">Penuhi segala kebutuhan bisnis Anda mulai dari desain, periklanan, pemasaran, SEO, SEM, website, landing page, dll.</p>
         </div>
       </div>
     </div>
@@ -792,24 +792,26 @@
           <div class="col-md-4 position-relative">
             <div class="p-3 text-center">
               <h1 class="text-gradient text-primary"><span id="state1" countTo="250">0</span>+</h1>
-              <h5 class="mt-3">Design</h5>
-              <p class="text-sm">From buttons, to inputs, navbars, alerts or cards, you are covered</p>
+              <h5 class="mt-3">Desain Kreatif</h5>
+              <p class="text-sm">Kami telah menciptakan lebih dari 250 desain profesional yang mendukung brand dan kampanye bisnis Anda. Setiap desain dirancang untuk menarik perhatian dan meningkatkan konversi di berbagai platform.</p>
             </div>
             <hr class="vertical dark">
           </div>
           <div class="col-md-4 position-relative">
             <div class="p-3 text-center">
               <h1 class="text-gradient text-primary"> <span id="state2" countTo="15">0</span>+</h1>
-              <h5 class="mt-3">Design Blocks</h5>
-              <p class="text-sm">Mix the sections, change the colors and unleash your creativity</p>
+              <h5 class="mt-3">Pengelolaan Iklan di Meta (FB & IG), TikTok, dan Google</h5>
+              <p class="text-sm">Kami telah berhasil menjalankan lebih dari 15 kampanye iklan di platform utama seperti Meta, TikTok, dan Google. Kami fokus pada pengoptimalan setiap kampanye untuk mencapai hasil maksimal dan ROI yang lebih tinggi.</p>
             </div>
             <hr class="vertical dark">
           </div>
           <div class="col-md-4">
             <div class="p-3 text-center">
               <h1 class="text-gradient text-primary" id="state3" countTo="4">0</h1>
-              <h5 class="mt-3">Pages</h5>
-              <p class="text-sm">Save 3-4 weeks of work when you use our pre-made pages for your website</p>
+              <h5 class="mt-3">Pengelolaan Sosial Media</h5>
+              <p class="text-sm">Dengan pengalaman dalam mengelola akun sosial media, kami telah membantu lebih dari 4 bisnis tumbuh secara organik dan meningkatkan engagement di platform seperti Facebook, Instagram, dan TikTok.
+
+              </p>
             </div>
           </div>
         </div>
@@ -841,8 +843,8 @@
                   </g>
               </svg>
               </div>
-              <h5 class="font-weight-bolder mt-3">Full Documentation</h5>
-              <p class="pe-5">Built by developers for developers. Check the foundation and you will find everything inside our documentation.</p>
+              <h5 class="font-weight-bolder mt-3">Pembuatan Website & Landing Page</h5>
+              <p class="pe-5">Dapatkan website yang responsif dan berfokus pada konversi, siap mendukung kampanye iklan digital Anda.</p>
 
             </div>
           </div>
@@ -864,8 +866,8 @@
               </svg>
               </div>
 
-              <h5 class="font-weight-bolder mt-3">Bootstrap 5 Ready</h5>
-              <p class="pe-3">The world’s most popular front-end open source toolkit, featuring Sass variables and mixins.</p>
+              <h5 class="font-weight-bolder mt-3">Manajemen Iklan Meta (Facebook & Instagram), TikTok Ads, Google Ads</h5>
+              <p class="pe-3">Tingkatkan brand awareness, hasilkan leads berkualitas, dan optimalkan penjualan dengan strategi iklan yang tepat sasaran.</p>
 
             </div>
           </div>
@@ -890,8 +892,8 @@
                 </svg>
               </div>
 
-              <h5 class="font-weight-bolder mt-3">Save Time & Money</h5>
-              <p class="pe-5">Creating your design from scratch with dedicated designers can be very expensive. Start with our Design System.</p>
+              <h5 class="font-weight-bolder mt-3">Jasa Desain Grafis</h5>
+              <p class="pe-5">Desain kreatif untuk berbagai kebutuhan Anda, mulai dari branding, media sosial, hingga materi pemasaran lainnya.</p>
 
             </div>
           </div>
@@ -913,8 +915,8 @@
                 </svg>
               </div>
 
-              <h5 class="font-weight-bolder mt-3">Fully Responsive</h5>
-              <p class="pe-3">Regardless of the screen size, the website content will naturally fit the given resolution.</p>
+              <h5 class="font-weight-bolder mt-3">Jasa Kelola Sosial Media</h5>
+              <p class="pe-3">Optimalkan performa media sosial Anda! Kami akan membantu meningkatkan brand awareness, engagement, dan traffic organik dengan strategi konten yang menarik dan konsisten.</p>
 
             </div>
           </div>
@@ -940,8 +942,8 @@
                   </g>
                   </svg>
               </div>
-              <h2 class="text-white up mb-0">Feel the <br/> Soft UI Design System</h2>
-              <a href=".//sections/elements/buttons.html" target="_blank" class="btn btn-outline-white mt-5 up btn-round">Start with Elements</a>
+              <h2 class="text-white up mb-0">Layanan <br/> Kami</h2>
+              <a href=".//sections/elements/buttons.html" target="_blank" class="btn btn-outline-white mt-5 up btn-round">Order Sekarang!</a>
             </div>
           </div>
       </div>
@@ -955,9 +957,9 @@
     <div class="row">
       <div class="row justify-content-center text-center my-sm-5">
         <div class="col-lg-6">
-          <h2 class="text-dark mb-0">Huge collection of sections</h2>
-          <h2 class="text-primary text-gradient">Infinite combinations</h2>
-          <p class="lead">We have created multiple options for you to put together and customise into pixel perfect pages. </p>
+          <h2 class="text-dark mb-0">Kreativitas yang</h2>
+          <h2 class="text-primary text-gradient">Berorientasi pada Hasil</h2>
+          <p class="lead">Createchub adalah mitra terpercaya untuk layanan teknologi kreatif yang telah membantu puluhan bisnis mengembangkan skala mereka. Dengan pendekatan holistik, kami fokus pada kebutuhan bisnis Anda untuk menghasilkan pendapatan lebih tinggi dan hasil yang signifikan. </p>
         </div>
       </div>
     </div>
@@ -970,10 +972,10 @@
     <span class="mask bg-gradient-dark"></span>
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 ms-lg-5">
-          <h4 class="text-white mb-0">Built by developers</h4>
-          <h1 class="text-white">Complex Documentation</h1>
-          <p class="lead text-white opacity-8">From colors, cards, typography to complex elements, you will find the full documentation. Play with the utility classes and you will create unlimited combinations for our components.</p>
+        <div class="col-lg-10 ms-lg-5">
+          <h4 class="text-white mb-0">Bersama Createchub, konversi tinggi bukan lagi sekadar impian.</h4>
+          <h1 class="text-white">Kami siap membantu Anda:</h1>
+          <p class="lead text-white opacity-8">Kami siap membantu bisnis Anda berkembang dengan menarik lebih banyak pelanggan melalui iklan di Meta, TikTok, dan Google, serta mengoptimalkan performa marketplace menggunakan strategi ROAS tinggi. Dengan desain kreatif dan website yang menarik, kami akan meningkatkan visibilitas online Anda. Selain itu, pengelolaan media sosial yang efektif dari kami akan membangun kehadiran digital yang kuat dan mendukung pertumbuhan bisnis Anda secara menyeluruh.</p>
           <a href="https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-design-system" class="text-white icon-move-right">
             Read docs
             <i class="fas fa-arrow-right text-sm ms-1"></i>
@@ -1007,10 +1009,10 @@
           </svg>
         </div>
         <div class="description ps-5">
-          <h5 class="text-white">Getting Started</h5>
-          <p class="text-white">Check the possible ways of working with our product and the necessary files for building your own project.</p>
+          <h5 class="text-white">Fokus pada Hasil</h5>
+          <p class="text-white">Kami memahami bahwa kesuksesan bisnis Anda adalah prioritas utama.</p>
           <a href="https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-design-system" class="text-white icon-move-right">
-            Let's start
+            Learn More
             <i class="fas fa-arrow-right text-sm ms-1"></i>
           </a>
         </div>
@@ -1034,10 +1036,10 @@
           </svg>
         </div>
         <div class="description ps-5">
-          <h5>Plugins</h5>
-          <p>Get inspiration and have an overview about the plugins that we used to create the Soft UI Design System.</p>
+          <h5>Tim Berpengalaman</h5>
+          <p>Bersama tim profesional, kami telah membantu puluhan klien dari UMKM hingga perusahaan besar.</p>
           <a href="https://www.creative-tim.com/learning-lab/bootstrap/datepicker/soft-ui-design-system" class="text-primary icon-move-right">
-            Read more
+            Leran More
             <i class="fas fa-arrow-right text-sm ms-1"></i>
           </a>
         </div>
@@ -1062,10 +1064,10 @@
           </svg>
         </div>
         <div class="description ps-5">
-          <h5>Utility Classes</h5>
-          <p>Soft UI Design System is giving you a lot of pre-made elements. For those who want flexibility, we included many utility classes.</p>
+          <h5>Fleksibel & Terjangkau</h5>
+          <p>Paket layanan kami dirancang sesuai kebutuhan bisnis Anda, tanpa membebani anggaran.</p>
           <a href="https://www.creative-tim.com/learning-lab/bootstrap/utilities/soft-ui-design-system" class="text-primary icon-move-right">
-            Read more
+            Learn More
             <i class="fas fa-arrow-right text-sm ms-1"></i>
           </a>
         </div>
@@ -1081,9 +1083,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 mx-auto text-center">
-        <h2 class="mb-0">Trusted by over</h2>
-        <h2 class="text-gradient text-primary mb-3">1,435,000 web developers</h2>
-        <p class="lead">Many Fortune 500 companies, startups, universities and governmental institutions love Creative Tim's products. </p>
+        {{-- <h2 class="mb-0"></h2> --}}
+        <h2 class="text-gradient text-primary mb-3">Bagaimana Kami Membantu Bisnis Anda?</h2>
       </div>
     </div>
     <div class="row mt-6">
@@ -1094,13 +1095,10 @@
           <div class="card-body">
             <div class="author">
               <div class="name">
-                <h6 class="mb-0 font-weight-bolder">Nick Willever</h6>
-                <div class="stats">
-                  <i class="far fa-clock"></i> 1 day ago
-                </div>
+                <h6 class="mb-0 font-weight-bolder">Tingkatkan Brand Awareness</h6>
               </div>
             </div>
-            <p class="mt-4">"This is an excellent product, the documentation is excellent and helped me get things done more efficiently."</p>
+            <p class="mt-4">Bantu bisnis Anda dikenal lebih luas melalui iklan digital yang efektif dan strategi media sosial yang konsisten.</p>
             <div class="rating mt-3">
               <i class="fas fa-star"></i>
               <i class="fas fa-star"></i>
@@ -1117,13 +1115,10 @@
           <div class="card-body">
             <div class="author align-items-center">
               <div class="name">
-                <h6 class="text-white mb-0 font-weight-bolder">Shailesh Kushwaha</h6>
-                <div class="stats text-white">
-                  <i class="far fa-clock"></i> 1 week ago
-                </div>
+                <h6 class="text-white mb-0 font-weight-bolder">Hasilkan Leads Berkualitas</h6>
               </div>
             </div>
-            <p class="mt-4 text-white">"I found solution to all my design needs from Creative Tim. I use them as a freelancer in my hobby projects for fun! And its really affordable, very humble guys !!!"</p>
+            <p class="mt-4 text-white">Strategi kami dirancang untuk menarik pelanggan yang benar-benar membutuhkan produk atau layanan Anda.</p>
             <div class="rating mt-3">
               <i class="fas fa-star text-white"></i>
               <i class="fas fa-star text-white"></i>
@@ -1140,13 +1135,10 @@
           <div class="card-body">
             <div class="author">
               <div class="name">
-                <h6 class="mb-0 font-weight-bolder">Samuel Kamuli</h6>
-                <div class="stats">
-                  <i class="far fa-clock"></i> 3 weeks ago
-                </div>
+                <h6 class="mb-0 font-weight-bolder">Optimalkan Website dan Konten</h6>
               </div>
             </div>
-            <p class="mt-4">"Great product. Helped me cut the time to set up a site. I used the components within instead of starting from scratch. I highly recommend for developers who want to spend more time on the backend!."</p>
+            <p class="mt-4">Dapatkan website yang dirancang untuk konversi dan konten menarik yang meningkatkan performa digital Anda.</p>
             <div class="rating mt-3">
               <i class="fas fa-star"></i>
               <i class="fas fa-star"></i>
@@ -1181,77 +1173,17 @@
 </section>
 
 
-<section class="py-sm-7" id="download-soft-ui">
-  <div class="bg-gradient-dark position-relative m-3 border-radius-xl overflow-hidden">
-    <img src="./assets/img/shapes/waves-white.svg" alt="pattern-lines" class="position-absolute start-0 top-md-0 w-100 opacity-6">
-    <div class="container py-7 postion-relative z-index-2 position-relative">
-      <div class="row">
-        <div class="col-md-7 mx-auto text-center">
-          <h3 class="text-white mb-0">Do you love this awesome</h3>
-          <h3 class="text-primary text-gradient mb-4">Design System for Bootstrap 5?</h3>
-          <p class="text-white mb-5">Cause if you do, it can be yours for FREE. Hit the button below to navigate to Creative Tim where you can find the Design System in HTML. Start a new project or give an old Bootstrap project a new look!</p>
-          <a href="https://www.creative-tim.com/product/soft-ui-design-system" class="btn btn-primary btn-lg mb-3 mb-sm-0">Download HTML</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-6 mx-auto">
-        <div class="text-center">
-          <h3 class="mt-5 mb-4">Available on these technologies</h3>
-          <div class="row justify-content-center">
-            <div class="col-lg-2 col-4">
-              <a href="https://www.creative-tim.com/product/soft-ui-design-system" target="_blank">
-                <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/bootstrap5.jpg" class="img-fluid" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Bootstrap 5 - Most popular front-end component library">
-              </a>
-            </div>
-            <div class="col-lg-2 col-4">
-              <a href="javascript:;">
-                <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/icon-tailwind.jpg" class="img-fluid opacity-6" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Comming soon">
-              </a>
-            </div>
-            <div class="col-lg-2 col-4">
-              <a href="javascript:;">
-                <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" class="img-fluid opacity-6" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Comming soon">
-              </a>
-            </div>
-            <div class="col-lg-2 col-4">
-              <a href="javascript:;">
-                <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" class="img-fluid opacity-6" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Comming soon">
-              </a>
-            </div>
-            <div class="col-lg-2 col-4">
-              <a href="javascript:;">
-                <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" class="img-fluid opacity-6" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Comming soon">
-              </a>
-            </div>
-            <div class="col-lg-2 col-4">
-              <a href="javascript:;" target="_blank" >
-                <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" class="img-fluid opacity-6" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Comming soon">
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
 <section class="my-5">
   <div class="container">
     <div class="row">
       <div class="col-md-7 col-12 my-auto">
-        <h3 class="text-gradient text-primary mb-0">You liked it and</h3>
-        <h3>Want more?</h3>
+        <h3 class="text-gradient text-primary mb-0">Penawaran Spesial</h3>
+        <h3>untuk Anda!</h3>
         <p class="pe-md-5 mb-4">
-          Most complex and innovative Design System Made by <a href="https://creative-tim.com/" target="_blank">Creative Tim </a> . Check our latest Premium Bootstrap 5 UI Kit.
-
-          Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Soft UI Design System is ready to help you create stunning websites and webapps.
+            Nikmati diskon hingga <a href="#" target="_blank">20% </a> untuk paket kombinasi layanan, mulai dari pembuatan website hingga pengelolaan iklan digital. Dapatkan juga konsultasi strategi GRATIS selama 1 jam untuk membantu bisnis Anda tumbuh lebih cepat. Jangan lewatkan kesempatan ini—hubungi kami sekarang dan raih hasil maksimal untuk bisnis Anda!
         </p>
         <div class="github-buttons">
-          <a href="https://www.creative-tim.com/product/soft-ui-design-system-pro" target="_blank" rel="nofollow" class="btn bg-gradient-primary mb-5 mb-sm-0">Upgrade to Pro</a>
+          <a href="https://www.creative-tim.com/product/soft-ui-design-system-pro" target="_blank" rel="nofollow" class="btn bg-gradient-primary mb-5 mb-sm-0">Daftar Sekarang!</a>
           <div class="github-button">
             <span></span>
           </div>
@@ -1267,52 +1199,22 @@
 </section>
 
 
-<!-- START Section Content W/ 2 images aside of icon title description -->
-<section class="pt-lg-7 pt-5">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-5 col-md-8 order-2 order-md-2 order-lg-1">
-        <div class="position-relative ms-lg-5 mb-0 mb-md-7 mb-lg-0 d-none d-md-block d-lg-block d-xl-block h-75">
-          <div class="bg-gradient-primary w-100 h-100 border-radius-xl position-absolute d-lg-block d-none"></div>
-          <img src="./assets/img/curved-images/curved11.jpg" class="w-100 border-radius-xl mt-6 ms-lg-5 position-relative z-index-5" alt="">
-        </div>
-      </div>
-      <div class="col-lg-5 col-md-12 ms-auto order-1 order-md-1 order-lg-1">
-        <div class="p-3 pt-0">
-            <div class="icon icon-shape bg-gradient-primary rounded-circle shadow text-center mb-4">
-              <i class="ni ni-building"></i>
-            </div>
-            <h4 class="text-gradient text-primary mb-0">Special Thanks</h4>
-            <h4 class="mb-4"><a href="https://twitter.com/dnyivn" target="blank" rel="nofollow">3D Images by Danny Ivan</a></h4>
-            <p>We are more than happy to use the great images made by Danny inside Soft UI Design System. They come with a high level of quality and bright colors, fitting perfect with our product's colors.<br><br> Danny is a important designer that is active into the 3D Image space. His war was awarded many times in different categories in Behance, Digital Art or Motion Graphics.</p>
-            <a href="https://www.behance.net/dannyivan" target="blank" rel="nofollow" class="text-dark icon-move-right">Check Danny's work
-              <i class="fas fa-arrow-right text-sm ms-1"></i>
-            </a>
-          </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- END Section Content -->
 
 
-<!-- -------   START PRE-FOOTER 2 - simple social line w/ title & 3 buttons    -------- -->
+
+<!-- -------   Sosmed    -------- -->
 <div class="pt-5">
   <div class="container">
     <div class="row">
       <div class="col-lg-5 ms-auto">
-        <h4 class="mb-1">Thank you for your support!</h4>
-        <p class="lead mb-0">We deliver the best web products</p>
+        <h4 class="mb-1">Ikuti Sosial Media Kami</h4>
       </div>
       <div class="col-lg-5 me-lg-auto my-lg-auto text-lg-end mt-5">
         <a href="https://twitter.com/intent/tweet?text=Check%20Soft%20UI%20Design%20System%20made%20by%20%40CreativeTim%20%23webdesign%20%23designsystem%20%23bootstrap5&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fsoft-ui-design-system" class="btn btn-info mb-0 me-2" target="_blank">
-          <i class="fab fa-twitter me-1"></i> Tweet
+          <i class="fab fa-twitter me-1"></i> Facebook
         </a>
         <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.creative-tim.com/product/soft-ui-design-system" class="btn btn-primary mb-0 me-2" target="_blank">
-          <i class="fab fa-facebook-square me-1"></i> Share
-        </a>
-        <a href="https://www.pinterest.com/pin/create/button/?url=https://www.creative-tim.com/product/soft-ui-design-system" class="btn btn-dark mb-0 me-2" target="_blank">
-          <i class="fab fa-pinterest me-1"></i> Pin it
+          <i class="fab fa-facebook-square me-1"></i> Instagram
         </a>
       </div>
     </div>
@@ -1330,7 +1232,7 @@
     <div class=" row">
       <div class="col-md-3 mb-4 ms-auto">
         <div>
-          <h6 class="text-gradient text-primary font-weight-bolder">Soft UI Design System</h6>
+          <h6 class="text-gradient text-primary font-weight-bolder">Creative Technology Hub</h6>
         </div>
         <div>
           <h6 class="mt-3 mb-2 opacity-8">Social</h6>
@@ -1382,18 +1284,6 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/templates/free" target="_blank">
-                Freebies
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/templates/premium" target="_blank">
-                Premium Tools
-              </a>
-            </li>
-
-            <li class="nav-item">
               <a class="nav-link" href="https://www.creative-tim.com/blog" target="_blank">
                 Blog
               </a>
@@ -1404,23 +1294,35 @@
 
       <div class="col-md-2 col-sm-6 col-6 mb-4">
         <div>
-          <h6 class="text-gradient text-primary text-sm">Resources</h6>
+          <h6 class="text-gradient text-primary text-sm">Layanan</h6>
           <ul class="flex-column ms-n3 nav">
             <li class="nav-item">
               <a class="nav-link" href="https://iradesign.io/" target="_blank">
-                Illustrations
+                Pembuatan Website & Landing Page
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/bits" target="_blank">
-                Bits & Snippets
+              <a class="nav-link" href="#" target="_blank">
+                Manajemen Iklan Meta, TikTok, Google
               </a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/affiliates/new" target="_blank">
-                Affiliate Program
+              <a class="nav-link" href="#" target="_blank">
+                Jasa Desain Grafis
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" target="_blank">
+                Jasa Kelola Sosial Media
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#" target="_blank">
+                Optimasi Marketplace
               </a>
             </li>
           </ul>
@@ -1432,28 +1334,12 @@
           <h6 class="text-gradient text-primary text-sm">Help & Support</h6>
           <ul class="flex-column ms-n3 nav">
             <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/contact-us" target="_blank">
+              <a class="nav-link" href="#" target="_blank">
                 Contact Us
               </a>
             </li>
 
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/knowledge-center" target="_blank">
-                Knowledge Center
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://services.creative-tim.com/?ref=ct-soft-ui-footer" target="_blank">
-                Custom Development
-              </a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/sponsorships" target="_blank">
-                Sponsorships
-              </a>
-            </li>
+  
 
           </ul>
         </div>
@@ -1475,10 +1361,6 @@
               </a>
             </li>
 
-            <li class="nav-item">
-              <a class="nav-link" href="https://www.creative-tim.com/license" target="_blank">
-                Licenses (EULA)
-              </a>
             </li>
           </ul>
         </div>
@@ -1487,7 +1369,7 @@
       <div class="col-12">
         <div class="text-center">
           <p class="my-4 text-sm">
-            All rights reserved. Copyright © <script>document.write(new Date().getFullYear())</script> Soft UI Design System by <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
+            All rights reserved. Copyright © <script>document.write(new Date().getFullYear())</script> Creative Technology Hub <a href="https://www.createchub.my.id" target="_blank">createchub</a>.
           </p>
         </div>
       </div>
