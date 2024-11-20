@@ -5,8 +5,8 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
-<link rel="icon" type="image/png" href="./assets/img/favicon.png">
+<link rel="apple-touch-icon" sizes="76x76" href="./assets/img/logo-kotak.png">
+<link rel="icon" type="image/png" href="./assets/img/logo-kotak.png">
 
 <title>
   
@@ -50,7 +50,7 @@
 <nav class="navbar navbar-expand-lg  blur blur-rounded top-0 z-index-fixed shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
   <div class="container-fluid px-0">
     <a class="navbar-brand font-weight-bolder ms-sm-3" href="https://createchub.my.id" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
-      Creative Technology Hub
+      Creative Technology Hub (createchub)
     </a>
     <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon mt-2">
@@ -548,14 +548,27 @@
         </div>
       </a>
     </li>
+
+    <li class="nav-item list-group-item border-0 p-0">
+      <a class="dropdown-item py-2 ps-3 border-radius-md" href="  ">
+        <div class="d-flex">
+          <div class="icon h-10 me-3 d-flex mt-1">
+            <svg class="text-secondary" width="16px" height="16px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <title>testimonial</title>
+              <path d="M12 2c.39 0 .74.22.91.56l2.38 4.83 5.34.77c.38.05.7.32.82.69.11.37.03.77-.22 1.05l-3.86 3.77.91 5.3c.07.38-.09.77-.38 1.02-.29.26-.69.3-1.02.15L12 17.77l-4.75 2.5c-.33.15-.73.11-1.02-.15-.29-.25-.45-.64-.38-1.02l.91-5.3-3.86-3.77c-.25-.28-.33-.68-.22-1.05.12-.37.44-.64.82-.69l5.34-.77 2.38-4.83c.17-.34.52-.56.91-.56z" fill="currentColor"/>
+            </svg>
+          </div>
+          <div>
+            <h6 class="dropdown-header text-dark font-weight-bolder d-flex justify-content-center align-items-center p-0">Testimoni</h6>
+          </div>
+        </div>
+      </a>
+    </li>
+    
+
   </ul>
 </div>
 
-<li class="nav-item dropdown dropdown-hover mx-2">
-  <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="javascript:;" id="dropdownMenuDocs" data-bs-toggle="dropdown" aria-expanded="false">
-    Testimonials
-  </a>
-<div>
 
 <li class="nav-item dropdown dropdown-hover mx-2">
   <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" href="javascript:;" id="dropdownMenuDocs" data-bs-toggle="dropdown" aria-expanded="false">
