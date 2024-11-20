@@ -752,11 +752,11 @@
 
         </li>
         <li class="nav-item my-auto ms-3 ms-lg-0">
-          <a href="https://www.creative-tim.com/builder?ref=navbar-soft-design-system" class="btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-2 mt-md-0"> Contact Us</a>
+          <a href="https://api.whatsapp.com/send/?phone=6289524526934&text=Hallo+Admin+Saya+Dari+Website+Mau+Tanya+Terkait+Jasanya%21&type=phone_number&app_absent=0" class="btn btn-sm btn-outline-primary btn-round mb-0 me-1 mt-2 mt-md-0"> Contact Us</a>
         </li>
         <li class="nav-item my-auto ms-3 ms-lg-0">
           
-          <a href="https://www.creative-tim.com/product/soft-ui-design-system-pro" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Order Now!</a>
+          <a href="https://createchub.my.id/layanan" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 mt-2 mt-md-0">Order Now!</a>
           
         </li>
       </ul>
@@ -955,7 +955,7 @@
       </div>
       <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
           <div class="card card-background card-background-mask-primary tilt" data-tilt>
-            <div class="full-background" style="background-image: url('https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/team-working.jpg')"></div>
+            <div class="full-background" style="background-image: url('./assets/img/logo-kotak.png')"></div>
             <div class="card-body pt-7 text-center">
               <div class="icon icon-lg up mb-3 mt-3">
                 <svg width="50px" height="50px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -974,7 +974,7 @@
                   </svg>
               </div>
               <h2 class="text-white up mb-0">Layanan <br/> Kami</h2>
-              <a href=".//sections/elements/buttons.html" target="_blank" class="btn btn-outline-white mt-5 up btn-round">Order Sekarang!</a>
+              <a href="https://api.whatsapp.com/send/?phone=6289524526934&text=Hallo+Admin+Saya+Dari+Website+Mau+Tanya+Terkait+Jasanya%21&type=phone_number&app_absent=0" target="_blank" class="btn btn-outline-white mt-5 up btn-round">Order Sekarang!</a>
             </div>
           </div>
       </div>
@@ -1211,18 +1211,18 @@
         <h3 class="text-gradient text-primary mb-0">Penawaran Spesial</h3>
         <h3>untuk Anda!</h3>
         <p class="pe-md-5 mb-4">
-            Nikmati diskon hingga <a href="#" target="_blank">20% </a> untuk paket kombinasi layanan, mulai dari pembuatan website hingga pengelolaan iklan digital. Dapatkan juga konsultasi strategi GRATIS selama 1 jam untuk membantu bisnis Anda tumbuh lebih cepat. Jangan lewatkan kesempatan ini—hubungi kami sekarang dan raih hasil maksimal untuk bisnis Anda!
+            Nikmati diskon hingga <a href="#" target="_blank">50% </a> untuk paket kombinasi layanan, mulai dari pembuatan website hingga pengelolaan iklan digital. Dapatkan juga konsultasi strategi GRATIS selama 1 jam untuk membantu bisnis Anda tumbuh lebih cepat. Jangan lewatkan kesempatan ini—hubungi kami sekarang dan raih hasil maksimal untuk bisnis Anda!
         </p>
         <div class="github-buttons">
-          <a href="https://www.creative-tim.com/product/soft-ui-design-system-pro" target="_blank" rel="nofollow" class="btn bg-gradient-primary mb-5 mb-sm-0">Daftar Sekarang!</a>
+          <a href="https://wa.me/6289524526934?text=Hallo%20Admin%20Saya%20Mau%20Promo%20UMKM!" target="_blank" rel="nofollow" class="btn bg-gradient-primary mb-5 mb-sm-0">Daftar Sekarang!</a>
           <div class="github-button">
             <span></span>
           </div>
         </div>
       </div>
       <div class="col-md-5 col-12 my-auto">
-        <a href="https://www.creative-tim.com/product/soft-ui-design-system-pro">
-          <img class="w-100 border-radius-lg shadow-lg" src="https://s3.amazonaws.com/creativetim_bucket/products/414/original/opt_sds_thumbnail.png?1612539858" alt="Product Image">
+        <a href="https://wa.me/6289524526934?text=Hallo%20Admin%20Saya%20Mau%20Promo%20UMKM!">
+          <img class="w-100 border-radius-lg shadow-lg" src="./assets/img/banner-promo-umkm.png" alt="Product Image">
         </a>
       </div>
     </div>
@@ -1241,10 +1241,10 @@
         <h4 class="mb-1">Ikuti Sosial Media Kami</h4>
       </div>
       <div class="col-lg-5 me-lg-auto my-lg-auto text-lg-end mt-5">
-        <a href="https://twitter.com/intent/tweet?text=Check%20Soft%20UI%20Design%20System%20made%20by%20%40CreativeTim%20%23webdesign%20%23designsystem%20%23bootstrap5&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fsoft-ui-design-system" class="btn btn-info mb-0 me-2" target="_blank">
+        <a href="https://www.facebook.com/profile.php?id=61564232848200" class="btn btn-info mb-0 me-2" target="_blank">
           <i class="fab fa-twitter me-1"></i> Facebook
         </a>
-        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.creative-tim.com/product/soft-ui-design-system" class="btn btn-primary mb-0 me-2" target="_blank">
+        <a href="https://www.instagram.com/createchub.id/" class="btn btn-primary mb-0 me-2" target="_blank">
           <i class="fab fa-facebook-square me-1"></i> Instagram
         </a>
       </div>
